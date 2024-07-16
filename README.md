@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hello World! Greetings, fellow developers! I'm Ugam Raj, a versatile software engineer based in India. My expertise lies in Java and JavaScript, where I excel in utilizing libraries and frameworks such as ReactJS, NodeJS, Express.js and more to architect robust systems and create seamless user experiences.<br>My proficiency extends to database management with MongoDB, ensuring optimal data integrity and efficiency in projects. Backed by comprehensive coursework in Data Structures, Algorithms, OOPs, Deployment, and UI/UX, I am driven by a passion for creating scalable solutions that blend technical excellence with user-centric design.<br>Let's embark on a collaborative journey to innovate and build transformative technologies! <br><br>💻 Passionate about Web Development <br>🤝 Open to collaboration opportunities <br>🌐 Learning Full Stack Web & App Development.<br>💡 Ask me about anything tech-related! <br>📫 How to reach me ugamrajseervi1994@gmail.com.
 
 
